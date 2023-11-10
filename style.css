@@ -1,0 +1,33 @@
+.container {
+  background-color: lightblue;
+  margin: 100px auto;
+  max-width: 700px;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+#myform {
+  font-size: 24px;
+  margin-left: 10px;
+}
+#name {
+  padding: 5px 20px;
+  margin-bottom: 10px;
+}
+#email {
+  padding: 5px 20px;
+  margin-bottom: 10px;
+}
+#number {
+  padding: 5px 20px;
+  margin-bottom: 10px;
+}
+.btn {
+  background-color: green;
+  padding: 5px 10px;
+  border: 1px solid green;
+  font-size: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
